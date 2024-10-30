@@ -1,0 +1,87 @@
+﻿RPP4 Test Report.
+Serial Number: 346-A6-1765
+MAC Address: 00:0A:F1:01:49:52
+DATE: 6/11/2024
+Technician: nm
+
+Test Data.
+--------------------------------------------------------------------------
+
+24 Volt Impedance = 360638 Ohms.
+5.0 Volt Impedance = 7724 Ohms.
+3.3 Volt Impedance = 1121 Ohms.
+VDD MPU Volt Impedance = 2052 Ohms.
+1.8A Volt Impedance = 4101 Ohms.
+3.3 CPU Volt Impedance = 4414 Ohms.
+1.8 FPGA Volt Impedance = 3172 Ohms.
+1.2 Volt Impedance = 1122 Ohms.
+5.0A Volt Impedance = 7806 Ohms.
+3.3A Volt Impedance = 7754 Ohms.
+VDD Core Volt Impedance = 1642 Ohms.
+1.8 Volt Impedance = 1982 Ohms.
+FPGA VTT Volt Impedance = 6653 Ohms.
+
+24V Voltage  = 23.88 Volts.
+5.0 Voltage  = 5.11 Volts.
+3.3 Voltage  = 3.41 Volts.
+VDD MPU Voltage  = 1.1 Volts.
+1.8A Voltage  = 1.81 Volts.
+-5.0 Voltage  = -4.95 Volts.
+3.3 CPU Voltage  = 3.41 Volts.
+1.8 FPGA Voltage  = 1.83 Volts.
+1.2 Voltage  = 1.21 Volts.
+5.0A Voltage  = 5.11 Volts.
+3.3A Voltage  = 3.31 Volts.
+VDD Core Voltage  = 1.1 Volts.
+1.8 Voltage  = 1.82 Volts.
+FPGA VTT Voltage  = 0.93 Volts.
+FPGA VREF Voltage  = 0.92 Volts.
+
+
+MAC Address Confirmed. MAC Address programmed as: 00:0A:F1:01:49:52
+
+Memory Test PASSED.
+
+FPGA LED ON.
+
+LED D7 Blinking.
+
+FPGA Version Correct. FPGA VERSION = 57
+
+Build Version Correct. BUILD VERSION = 0.2.4
+
+pulsesvr CRC File Integrity Test PASSED.
+rpp4app CRC File Integrity Test PASSED.
+
+PASSED. Temperature 1 = 27
+PASSED. Temperature 2 = 26
+PASSED. Temperature 3 = 25
+PASSED. Temperature 4 = 27
+
+PASSED. RTD Current (OPEN) = 7FCD
+PASSED. RTD P_Sense (OPEN) = 2C99
+PASSED. RTD Current (110 ohm) = BB6
+PASSED. RTD Current (110 ohm) = BB3
+
+PASSED 4mA Test. ILOOP 1 = 2690
+PASSED 20mA Test. ILOOP 1 = 5122
+PASSED 4mA Test. ILOOP 2 = 2687
+PASSED 20mA Test. ILOOP 2 = 5218
+PASSED 4mA Test. ILOOP 3 = 2693
+PASSED 20mA Test. ILOOP 3 = 5275
+PASSED 4mA Test. ILOOP 4 = 2696
+PASSED 20mA Test. ILOOP 4 = 5642
+
+PASSED. RPP4 read the Preamp Board Version correctly.
+
+PASSED. NGEN Test PASSED. 
+
+PASSED. Moisture Test PASSED. 
+
+PASSED. ADC Pulse noise test Average = 82
+
+PASSED. ADC Pulse noise test Standard Deviation = 3
+
+PASSED. Sawtooth Waveform looks correct and no missing codes.
+
+

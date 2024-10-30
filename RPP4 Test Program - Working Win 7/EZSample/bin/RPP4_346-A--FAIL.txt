@@ -1,0 +1,59 @@
+﻿RPP4 Test Report.
+Serial Number: 346-A-
+MAC Address: 00:0A:F1:01::
+DATE: 10/7/2013
+Technician: 
+
+Failures Detected!!!
+Failures Detected!!!
+Failures Detected!!!
+Failures Detected!!!
+
+Test Data.
+--------------------------------------------------------------------------
+
+FPGA VREF Voltage  = 0.92 Volts.
+
+
+MAC Address Confirmed. MAC Address programmed as: 
+
+FPGA LED ON.
+
+LED D7 Blinking.
+
+FPGA Version Correct. FPGA VERSION = 51
+
+Build Version Correct. BUILD VERSION = 0.1.1
+
+PASSED. Temperature 1 = 28
+PASSED. Temperature 2 = 27
+PASSED. Temperature 3 = 25
+PASSED. Temperature 4 = 27
+
+PASSED. RTD Current (OPEN) = 7FC5
+PASSED. RTD P_Sense (OPEN) = 303B
+PASSED. RTD Current (110 ohm) = BB3
+PASSED. RTD Current (110 ohm) = BB0
+
+PASSED 4mA Test. ILOOP 1 = 2700
+PASSED 20mA Test. ILOOP 1 = 6002
+PASSED 4mA Test. ILOOP 2 = 2704
+PASSED 20mA Test. ILOOP 2 = 6047
+PASSED 4mA Test. ILOOP 3 = 2702
+PASSED 20mA Test. ILOOP 3 = 6210
+PASSED 4mA Test. ILOOP 4 = 2701
+PASSED 20mA Test. ILOOP 4 = 6194
+
+PASSED. RPP4 read the Preamp Board Version correctly.
+
+PASSED. Sawtooth Waveform looks correct and no missing codes.
+
+PASSED. ADC Pulse noise test Average = 83
+
+PASSED. ADC Pulse noise test Standard Deviation = 3
+
+PASSED. Moisture Test PASSED. 
+
+PASSED. NGEN Test PASSED. 
+
+

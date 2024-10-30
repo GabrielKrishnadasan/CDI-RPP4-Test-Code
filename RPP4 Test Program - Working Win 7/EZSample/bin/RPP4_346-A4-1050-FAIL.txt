@@ -1,0 +1,92 @@
+﻿RPP4 Test Report.
+Serial Number: 346-A4-1050
+MAC Address: 00:0A:F1:01:46:87
+DATE: 6/26/2024
+Technician: nm
+
+Failures Detected!!!
+Failures Detected!!!
+Failures Detected!!!
+Failures Detected!!!
+
+Test Data.
+--------------------------------------------------------------------------
+
+24 Volt Impedance = 359174 Ohms.
+5.0 Volt Impedance = 7808 Ohms.
+3.3 Volt Impedance = 1129 Ohms.
+VDD MPU Volt Impedance = 2094 Ohms.
+1.8A Volt Impedance = 4089 Ohms.
+3.3 CPU Volt Impedance = 4178 Ohms.
+1.8 FPGA Volt Impedance = 3243 Ohms.
+1.2 Volt Impedance = 1104 Ohms.
+5.0A Volt Impedance = 7906 Ohms.
+3.3A Volt Impedance = 7466 Ohms.
+VDD Core Volt Impedance = 1580 Ohms.
+1.8 Volt Impedance = 1940 Ohms.
+FPGA VTT Volt Impedance = 6692 Ohms.
+
+24V Voltage  = 23.88 Volts.
+5.0 Voltage  = 5.1 Volts.
+3.3 Voltage  = 3.4 Volts.
+VDD MPU Voltage  = 1.1 Volts.
+1.8A Voltage  = 1.81 Volts.
+-5.0 Voltage  = -4.98 Volts.
+3.3 CPU Voltage  = 3.4 Volts.
+1.8 FPGA Voltage  = 1.82 Volts.
+1.2 Voltage  = 1.21 Volts.
+5.0A Voltage  = 5.09 Volts.
+3.3A Voltage  = 3.31 Volts.
+VDD Core Voltage  = 1.1 Volts.
+1.8 Voltage  = 1.82 Volts.
+FPGA VTT Voltage  = 0.92 Volts.
+FPGA VREF Voltage  = 0.92 Volts.
+
+
+MAC Address Confirmed. MAC Address programmed as: 00:0A:F1:01:46:87
+
+Memory Test PASSED.
+
+FPGA LED ON.
+
+LED D7 Blinking.
+
+FPGA Version Correct. FPGA VERSION = 57
+
+Build Version Correct. BUILD VERSION = 0.2.4
+
+pulsesvr CRC File Integrity Test PASSED.
+rpp4app CRC File Integrity Test PASSED.
+
+PASSED. Temperature 1 = 34
+PASSED. Temperature 2 = 32
+PASSED. Temperature 3 = 30
+PASSED. Temperature 4 = 30
+
+PASSED. RTD Current (OPEN) = 7FC8
+PASSED. RTD P_Sense (OPEN) = 2CE1
+PASSED. RTD Current (110 ohm) = BB6
+PASSED. RTD Current (110 ohm) = BB3
+
+PASSED 4mA Test. ILOOP 1 = 2673
+PASSED 20mA Test. ILOOP 1 = 5049
+PASSED 4mA Test. ILOOP 2 = 2678
+PASSED 20mA Test. ILOOP 2 = 5163
+PASSED 4mA Test. ILOOP 3 = 2683
+PASSED 20mA Test. ILOOP 3 = 5216
+PASSED 4mA Test. ILOOP 4 = 2688
+PASSED 20mA Test. ILOOP 4 = 5584
+
+PASSED. RPP4 read the Preamp Board Version correctly.
+
+PASSED. NGEN Test PASSED. 
+
+PASSED. Moisture Test PASSED. 
+
+PASSED. ADC Pulse noise test Average = 82
+
+PASSED. ADC Pulse noise test Standard Deviation = 3
+
+PASSED. Sawtooth Waveform looks correct and no missing codes.
+
+

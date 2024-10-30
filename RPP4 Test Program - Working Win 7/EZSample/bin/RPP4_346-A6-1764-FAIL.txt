@@ -1,0 +1,108 @@
+﻿RPP4 Test Report.
+Serial Number: 346-A6-1764
+MAC Address: 00:0A:F1:01:49:51
+DATE: 6/26/2024
+Technician: nm
+
+Failures Detected!!!
+Failures Detected!!!
+Failures Detected!!!
+Failures Detected!!!
+
+Test Data.
+--------------------------------------------------------------------------
+
+24 Volt Impedance = 362675 Ohms.
+5.0 Volt Impedance = 8055 Ohms.
+3.3 Volt Impedance = 1129 Ohms.
+VDD MPU Volt Impedance = 1963 Ohms.
+1.8A Volt Impedance = 4124 Ohms.
+3.3 CPU Volt Impedance = 4441 Ohms.
+1.8 FPGA Volt Impedance = 3150 Ohms.
+1.2 Volt Impedance = 1124 Ohms.
+5.0A Volt Impedance = 8134 Ohms.
+3.3A Volt Impedance = 7813 Ohms.
+VDD Core Volt Impedance = 1544 Ohms.
+1.8 Volt Impedance = 1933 Ohms.
+FPGA VTT Volt Impedance = 6627 Ohms.
+
+FAILED FAILED FAILED ----------------------------> 24V Voltage  = 0.49 Volts.
+FAILED FAILED FAILED ----------------------------> 5.0 Voltage  = 0.68 Volts.
+FAILED FAILED FAILED ----------------------------> 3.3 Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> VDD MPU Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> 1.8A Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> -5.0 Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> 3.3 CPU Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> 1.8 FPGA Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> 1.2 Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> 5.0A Voltage  = 0.68 Volts.
+FAILED FAILED FAILED ----------------------------> 3.3A Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> VDD Core Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> 1.8 Voltage  = 0 Volts.
+FAILED FAILED FAILED ----------------------------> FPGA VTT Voltage  = 0 Volts.
+
+24V Voltage  = 23.85 Volts.
+5.0 Voltage  = 5.08 Volts.
+3.3 Voltage  = 3.41 Volts.
+VDD MPU Voltage  = 1.11 Volts.
+1.8A Voltage  = 1.81 Volts.
+-5.0 Voltage  = -5 Volts.
+3.3 CPU Voltage  = 3.41 Volts.
+1.8 FPGA Voltage  = 1.82 Volts.
+1.2 Voltage  = 1.21 Volts.
+5.0A Voltage  = 5.08 Volts.
+3.3A Voltage  = 3.31 Volts.
+VDD Core Voltage  = 1.1 Volts.
+1.8 Voltage  = 1.83 Volts.
+FPGA VTT Voltage  = 0.93 Volts.
+FPGA VREF Voltage  = 0.92 Volts.
+FPGA VREF Voltage  = 0.92 Volts.
+
+
+MAC Address Confirmed. MAC Address programmed as: 00:0A:F1:01:49:51
+
+Memory Test PASSED.
+
+FPGA LED ON.
+
+LED D7 Blinking.
+
+FPGA Version Correct. FPGA VERSION = 57
+
+Build Version Correct. BUILD VERSION = 0.2.4
+
+pulsesvr CRC File Integrity Test PASSED.
+rpp4app CRC File Integrity Test PASSED.
+
+PASSED. Temperature 1 = 33
+PASSED. Temperature 2 = 32
+PASSED. Temperature 3 = 29
+PASSED. Temperature 4 = 30
+
+PASSED. RTD Current (OPEN) = 7FCD
+PASSED. RTD P_Sense (OPEN) = 2CA8
+PASSED. RTD Current (110 ohm) = BB8
+PASSED. RTD Current (110 ohm) = BB3
+
+PASSED 4mA Test. ILOOP 1 = 2672
+PASSED 20mA Test. ILOOP 1 = 5045
+PASSED 4mA Test. ILOOP 2 = 2686
+PASSED 20mA Test. ILOOP 2 = 5170
+PASSED 4mA Test. ILOOP 3 = 2672
+PASSED 20mA Test. ILOOP 3 = 5195
+PASSED 4mA Test. ILOOP 4 = 2678
+PASSED 20mA Test. ILOOP 4 = 5552
+
+PASSED. RPP4 read the Preamp Board Version correctly.
+
+PASSED. NGEN Test PASSED. 
+
+PASSED. Moisture Test PASSED. 
+
+PASSED. ADC Pulse noise test Average = 83
+
+PASSED. ADC Pulse noise test Standard Deviation = 3
+
+PASSED. Sawtooth Waveform looks correct and no missing codes.
+
+

@@ -1,0 +1,114 @@
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\obj\Debug\EZSample.vbproj.ResolveComReference.cache
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\bin\EZSample.exe
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\bin\EZSample.pdb
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\bin\EZSample.xml
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\bin\Ivi.Visa.Interop.dll
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\obj\Debug\ResolveAssemblyReference.cache
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\obj\Debug\EZSample.frmEZSample.resources
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\obj\Debug\ResGen.read.1.tlog
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\obj\Debug\ResGen.write.1.tlog
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\obj\Debug\EZSample.exe
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\obj\Debug\EZSample.xml
+C:\ProgramData\Agilent\Agilent IO Libraries Programming Samples\VB.NET\VISACOM\34401A\EZSample\EZSample\obj\Debug\EZSample.pdb
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\obj\Debug\EZSample.vbproj.ResolveComReference.cache
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\obj\Debug\EZSample.exe
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\obj\Debug\EZSample.xml
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\obj\Debug\EZSample.pdb
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\obj\Debug\ResolveAssemblyReference.cache
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\obj\Debug\EZSample.frmEZSample.resources
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\obj\Debug\ResGen.read.1.tlog
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\obj\Debug\ResGen.write.1.tlog
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\bin\EZSample.exe
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\bin\EZSample.pdb
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\bin\EZSample.xml
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\EZSample\EZSample\bin\Ivi.Visa.Interop.dll
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.exe
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbproj.ResolveComReference.cache
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.frmEZSample.resources
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.exe
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.xml
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.pdb
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.pdb
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.xml
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\Ivi.Visa.Interop.dll
+\\CLARITYSVR\Company Shared Folders\Production\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbproj.GenerateResource.Cache
+\\CLARITYSVR\Company Shared Folders\Production\Archive\Mfg Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbproj.ResolveComReference.cache
+\\CLARITYSVR\Company Shared Folders\Production\Archive\Mfg Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.exe
+\\CLARITYSVR\Company Shared Folders\Production\Archive\Mfg Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.xml
+\\CLARITYSVR\Company Shared Folders\Production\Archive\Mfg Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.pdb
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbproj.ResolveComReference.cache
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.exe
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.xml
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.pdb
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.exe
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.pdb
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.xml
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.frmEZSample.resources
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbproj.GenerateResource.Cache
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbprojResolveAssemblyReference.cache
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\Ivi.Visa.Interop.dll
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\Ivi.Visa.Interop.xml
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.exe
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.pdb
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\EZSample.xml
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\Ivi.Visa.Interop.dll
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\bin\Ivi.Visa.Interop.xml
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbproj.ResolveComReference.cache
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.frmEZSample.resources
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbproj.GenerateResource.Cache
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.exe
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.xml
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.pdb
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program\EZSample\obj\Debug\EZSample.vbprojResolveAssemblyReference.cache
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.ResolveComReference.cache
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.exe
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.xml
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.pdb
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.exe
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.pdb
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.xml
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\Ivi.Visa.Interop.dll
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\Ivi.Visa.Interop.xml
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.frmEZSample.resources
+\\Claritysvr\cdi\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.GenerateResource.Cache
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\System.Runtime.Serialization.dll
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\System.Numerics.dll
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\System.Runtime.DurableInstancing.dll
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\bin\System.Xaml.dll
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbprojAssemblyReference.cache
+\\claritysvr\CDI\MFG\Manufacturing Data\Board Level Products\PCA-0363 - RPP4 Test Board (Clarity Design)\Software\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.CopyComplete
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.exe
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.pdb
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.xml
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\Ivi.Visa.Interop.dll
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\System.Runtime.Serialization.dll
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\System.Numerics.dll
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\System.Runtime.DurableInstancing.dll
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\System.Xaml.dll
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\Ivi.Visa.Interop.xml
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\System.Runtime.Serialization.xml
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\System.Numerics.xml
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\System.Runtime.DurableInstancing.xml
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\System.Xaml.xml
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.AssemblyReference.cache
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.ResolveComReference.cache
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.frmEZSample.resources
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.GenerateResource.cache
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.CoreCompileInputs.cache
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.CopyComplete
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.exe
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.xml
+C:\Users\Nathan.Miklos\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.pdb
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.AssemblyReference.cache
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.exe
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.xml
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.pdb
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.exe.config
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.exe
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.pdb
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\EZSample.xml
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\bin\Ivi.Visa.Interop.dll
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.frmEZSample.resources
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.GenerateResource.cache
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.CoreCompileInputs.cache
+C:\Users\Production1\Desktop\RPP4 Test Program - Working Win 7\EZSample\obj\Debug\EZSample.vbproj.CopyComplete
